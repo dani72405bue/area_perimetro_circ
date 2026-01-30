@@ -11,6 +11,7 @@ programa de python para calcular el área y el perímetro de un circulo, dado el
 - p: perimetro de circulo
 
 $a = \pi*r²$
+
 $p = 2*\pi*r$
 
 

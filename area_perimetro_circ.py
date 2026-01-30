@@ -10,7 +10,7 @@ print ("------------")
 print ("area y perimetro del circulo")
 print ("------------")
 
-r= input ("digite el valor del radio ")
+r= input ("digite el valor del radio: ")
 r= int(r)
 
 # --------
